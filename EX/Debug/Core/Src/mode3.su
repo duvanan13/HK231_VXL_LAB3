@@ -1,4 +1,0 @@
-mode3.c:9:6:ToggleLedRed3	8	static
-mode3.c:18:6:mode_led3	16	static
-mode3.c:39:6:mod_duration3	16	static
-mode3.c:56:6:mode3_run	8	static
