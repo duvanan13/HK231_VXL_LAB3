@@ -1,0 +1,3 @@
+button.c:25:5:isButtonPressed	16	static
+button.c:32:5:isButton1sPressed	16	static
+button.c:35:6:getKeyInput	16	static
